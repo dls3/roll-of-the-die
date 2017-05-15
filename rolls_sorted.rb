@@ -10,6 +10,6 @@ rolls = []
 end
 
 rolls.sort!
-rolls.each do |roll|
-  puts "The result of your roll is #{roll}"
+rolls.each do |count|
+  puts "The result of your roll is #{count}"
 end
