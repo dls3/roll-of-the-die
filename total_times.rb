@@ -16,5 +16,5 @@ end
 puts roll_total_counts
 
 roll_total_counts.each do |roll_num, value|
-  puts "#{roll_num} occurs #{value}"
+  puts "#{roll_num} occurs #{value} times"
 end
