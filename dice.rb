@@ -11,5 +11,5 @@ end
 
 total = rolls[0] + rolls[1]
 
-puts "Your rolled #{rolls[0]} and #{rolls[1]}"
+puts "You rolled #{rolls[0]} and #{rolls[1]}"
 puts "Your total is #{total}"

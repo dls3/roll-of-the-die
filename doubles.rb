@@ -12,4 +12,9 @@ end
 total = rolls[0] + rolls[1]
 
 puts "Your rolled #{rolls[0]} and #{rolls[1]}"
+
+if rolls[0] == rolls [1]
+  puts "Doubles!"
+end
+
 puts "Your total is #{total}"
